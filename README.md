@@ -43,7 +43,7 @@ Cardápio em realidade aumentada: lê o QR code da mesa e o prato aparece em 3D,
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Kauesouzavr/deteccao-fraudes"><img src="assets/deteccao-fraudes.svg" alt="Detecção de Fraudes"/></a>
-<br/><b>Detecção de Fraudes</b> · <i>TCC</i><br/>
+<br/><b>Detecção de Fraudes</b> · <i>TCC</i> · <a href="https://deteccao-fraudes-chi.vercel.app">ver demo</a><br/>
 Machine learning em transações de cartão: Random Forest, XGBoost, validação cruzada e SMOTE, com o modelo rodando direto no navegador.
 </td>
 </tr>
