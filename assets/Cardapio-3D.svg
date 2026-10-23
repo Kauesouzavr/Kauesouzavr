@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Prato na Mesa — Cardápio em realidade aumentada: o prato aparece em 3D na sua mesa">
+  <title>Prato na Mesa — Cardápio em realidade aumentada: o prato aparece em 3D na sua mesa</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f17"/><stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.3" r="0.6">
+      <stop offset="0" stop-color="#f97316" stop-opacity="0.35"/><stop offset="1" stop-color="#f97316" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="txt" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#fdba74"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#f97316" stop-opacity="0"/><stop offset="0.5" stop-color="#f97316" stop-opacity="0.9"/><stop offset="1" stop-color="#f97316" stop-opacity="0"/></linearGradient>
+    <clipPath id="r"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <rect width="1200" height="300" fill="url(#glow)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <g transform="translate(1000,160)">
+      <ellipse rx="130" ry="40" fill="none" stroke="#f97316" stroke-opacity="0.5" stroke-dasharray="6 8"><animate attributeName="stroke-dashoffset" values="0;-56" dur="2s" repeatCount="indefinite"/></ellipse>
+      <g><animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="3s" repeatCount="indefinite"/>
+        <ellipse rx="90" ry="26" fill="#1f2937" stroke="#ffffff" stroke-opacity="0.2"/>
+        <ellipse cy="-14" rx="58" ry="22" fill="#f97316" fill-opacity="0.85"/>
+        <ellipse cy="-24" rx="50" ry="14" fill="#fde68a" fill-opacity="0.9"/>
+      </g>
+      <path d="M-150 -110 h24 M-150 -110 v24 M150 -110 h-24 M150 -110 v24 M-150 90 h24 M-150 90 v-24 M150 90 h-24 M150 90 v-24" stroke="#ffffff" stroke-opacity="0.5" stroke-width="3" fill="none"/>
+    </g>
+    <rect y="0" width="260" height="2" fill="url(#scan)">
+      <animate attributeName="x" values="-260;1200" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+    <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#fdba74">
+      <circle cx="70" cy="64" r="5" fill="#f97316"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+      <text x="84" y="69" letter-spacing="2">REALIDADE AUMENTADA · SEM INSTALAR APP</text>
+    </g>
+    <text x="62" y="138" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="url(#txt)">Prato na Mesa</text>
+    <text x="64" y="182" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" fill="#9da7b3">Cardápio em realidade aumentada: o prato aparece em 3D na sua mesa</text>
+    <g transform="translate(64,214)"><rect width="71" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#f97316" stroke-opacity="0.45"/><text x="35.5" y="21" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#e6edf3">WebXR</text></g><g transform="translate(145,214)"><rect width="131" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#f97316" stroke-opacity="0.45"/><text x="65.5" y="21" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#e6edf3">model-viewer</text></g><g transform="translate(286,214)"><rect width="122" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#f97316" stroke-opacity="0.45"/><text x="61.0" y="21" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#e6edf3">glTF / USDZ</text></g><g transform="translate(418,214)"><rect width="88" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#f97316" stroke-opacity="0.45"/><text x="44.0" y="21" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#e6edf3">QR Code</text></g><g transform="translate(516,214)"><rect width="79" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#f97316" stroke-opacity="0.45"/><text x="39.5" y="21" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#e6edf3">Vercel</text></g>
+    <rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+  </g>
+</svg>
