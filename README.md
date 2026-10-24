@@ -50,7 +50,7 @@ Machine learning em transações de cartão: Random Forest, XGBoost, validação
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Kauesouzavr/plataforma-de-aposta-tips"><img src="assets/plataforma-de-aposta-tips.svg" alt="JV Tips"/></a>
-<br/><b>JV Tips</b> · <i>meu primeiro projeto web</i> · <a href="https://curso-yvqf.onrender.com">ver site</a><br/>
+<br/><b>JV Tips</b> · <i>meu primeiro projeto web</i><br/>
 Assinatura VIP com Mercado Pago, área exclusiva, limite de 2 aparelhos por conta e verificação por e-mail.
 </td>
 <td width="50%" valign="top">
