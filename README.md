@@ -11,14 +11,14 @@
 
 ## 👋 Oi, eu sou o Kauê
 
-Desenvolvedor **full stack**, formado em **Sistemas de Informação**. Gosto de entender o problema antes de escrever código e de entregar coisa que alguém usa de verdade: dois dos meus projetos foram feitos **para clientes reais**.
+Desenvolvedor **full stack**, formado em **Sistemas de Informação**. Gosto de entender o problema antes de escrever código e de entregar coisa que alguém usa de verdade: o Central de Crédito foi feito **para um cliente real**.
 
 - 🔨 Construo de ponta a ponta: banco de dados, API, regra de negócio testada e interface.
 - 🔐 Levo segurança a sério: login conferido no servidor, dados protegidos por RLS, segredos fora do código e varredura automática em todo push.
 - 🧪 Regra de negócio em funções puras, com teste automatizado e CI.
 - 📍 Volta Redonda/RJ · disponível para **remoto, híbrido ou presencial**.
 
-> 🇺🇸 Full stack developer (Next.js, React, TypeScript, Node.js, Python, PostgreSQL). Two of my projects were built for real clients. Open to remote, hybrid or on-site roles.
+> 🇺🇸 Full stack developer (Next.js, React, TypeScript, Node.js, Python, PostgreSQL). One of my projects was built for a real client. Open to remote, hybrid or on-site roles.
 
 ## 🚀 Projetos em destaque
 
@@ -50,7 +50,7 @@ Machine learning em transações de cartão: Random Forest, XGBoost, validação
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Kauesouzavr/plataforma-de-aposta-tips"><img src="assets/plataforma-de-aposta-tips.svg" alt="JV Tips"/></a>
-<br/><b>JV Tips</b> · <i>cliente real, em produção</i> · <a href="https://curso-yvqf.onrender.com">ver site</a><br/>
+<br/><b>JV Tips</b> · <i>meu primeiro projeto web</i> · <a href="https://curso-yvqf.onrender.com">ver site</a><br/>
 Assinatura VIP com Mercado Pago, área exclusiva, limite de 2 aparelhos por conta e verificação por e-mail.
 </td>
 <td width="50%" valign="top">
