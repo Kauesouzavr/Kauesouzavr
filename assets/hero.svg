@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Kauê Souza, desenvolvedor full stack. Já construí um sistema de crédito para uma loja de verdade, um bot de finanças no WhatsApp, um cardápio em realidade aumentada e um modelo de detecção de fraudes. Disponível para vagas.">
+  <title>Kauê Souza, desenvolvedor full stack</title>
+  <defs>
+    <radialGradient id="g1" cx="0.82" cy="0.18" r="0.55"><stop offset="0" stop-color="#ff6a3d" stop-opacity="0.38"/><stop offset="1" stop-color="#ff6a3d" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="0.08" cy="1" r="0.6"><stop offset="0" stop-color="#8b5cf6" stop-opacity="0.30"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity="0.07"/></pattern>
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="640" y2="0">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="0.42" stop-color="#ffffff"/><stop offset="0.5" stop-color="#ffb38a"/><stop offset="0.58" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-700 0;700 0;700 0" keyTimes="0;0.45;1" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1200" height="440" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="440" fill="#0b0b10"/>
+    <rect width="1200" height="440" fill="url(#dots)"/>
+    <rect width="1200" height="440" fill="url(#g2)"/>
+    <rect width="1200" height="440" fill="url(#g1)"><animate attributeName="opacity" values="0.75;1;0.75" dur="8s" repeatCount="indefinite"/></rect>
+
+    <text x="64" y="84" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#ffb38a" letter-spacing="3">DESENVOLVEDOR FULL STACK</text>
+    <text x="58" y="208" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="132" font-weight="900" letter-spacing="-5" fill="url(#shine)">Kauê</text>
+    <text x="58" y="330" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="132" font-weight="900" letter-spacing="-5" fill="url(#shine)">Souza<tspan fill="#ff6a3d">.</tspan></text>
+
+    <line x1="676" y1="70" x2="676" y2="330" stroke="#ffffff" stroke-opacity="0.08"/>
+    <text x="716" y="84" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#8a8a98" letter-spacing="3">JÁ CONSTRUÍ</text>
+    <rect x="716.0" y="118" width="99.0" height="4" rx="2" fill="#ffffff" fill-opacity="0.12"/><rect x="716.0" y="118" width="0" height="4" rx="2" fill="#ff6a3d"><animate attributeName="width" values="0;99.0;99.0" keyTimes="0.0000;0.2500;1.0000" dur="16.0s" repeatCount="indefinite"/></rect><rect x="823.0" y="118" width="99.0" height="4" rx="2" fill="#ffffff" fill-opacity="0.12"/><rect x="823.0" y="118" width="0" height="4" rx="2" fill="#ff6a3d"><animate attributeName="width" values="0;0;99.0;99.0" keyTimes="0.0000;0.2500;0.5000;1.0000" dur="16.0s" repeatCount="indefinite"/></rect><rect x="930.0" y="118" width="99.0" height="4" rx="2" fill="#ffffff" fill-opacity="0.12"/><rect x="930.0" y="118" width="0" height="4" rx="2" fill="#ff6a3d"><animate attributeName="width" values="0;0;99.0;99.0" keyTimes="0.0000;0.5000;0.7500;1.0000" dur="16.0s" repeatCount="indefinite"/></rect><rect x="1037.0" y="118" width="99.0" height="4" rx="2" fill="#ffffff" fill-opacity="0.12"/><rect x="1037.0" y="118" width="0" height="4" rx="2" fill="#ff6a3d"><animate attributeName="width" values="0;0;99.0;99.0" keyTimes="0.0000;0.7500;1.0000;1.0000" dur="16.0s" repeatCount="indefinite"/></rect>
+    <g opacity="1">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.2281;0.2500;1.0000" dur="16.0s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,0;0,-10;0,-10" keyTimes="0.0000;0.2281;0.2500;1.0000" dur="16.0s" repeatCount="indefinite"/>
+      <text x="716" y="196" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#f5f5f7">um sistema de crédito</text>
+      <text x="716" y="240" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#ffb38a">para uma loja de verdade</text>
+      <text x="716" y="286" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8a8a98" letter-spacing="1.5">CENTRAL DE CRÉDITO</text>
+    </g><g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2499;0.2719;0.4781;0.5000;1.0000" dur="16.0s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,14;0,14;0,0;0,0;0,-10;0,-10" keyTimes="0.0000;0.2499;0.2719;0.4781;0.5000;1.0000" dur="16.0s" repeatCount="indefinite"/>
+      <text x="716" y="196" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#f5f5f7">um bot de finanças</text>
+      <text x="716" y="240" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#ffb38a">que mora no WhatsApp</text>
+      <text x="716" y="286" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8a8a98" letter-spacing="1.5">BOT FINANCEIRO</text>
+    </g><g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4999;0.5219;0.7281;0.7500;1.0000" dur="16.0s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,14;0,14;0,0;0,0;0,-10;0,-10" keyTimes="0.0000;0.4999;0.5219;0.7281;0.7500;1.0000" dur="16.0s" repeatCount="indefinite"/>
+      <text x="716" y="196" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#f5f5f7">um cardápio que põe</text>
+      <text x="716" y="240" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#ffb38a">o prato 3D na sua mesa</text>
+      <text x="716" y="286" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8a8a98" letter-spacing="1.5">PRATO NA MESA</text>
+    </g><g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7499;0.7719;0.9781;1.0000;1.0000" dur="16.0s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,14;0,14;0,0;0,0;0,-10;0,-10" keyTimes="0.0000;0.7499;0.7719;0.9781;1.0000;1.0000" dur="16.0s" repeatCount="indefinite"/>
+      <text x="716" y="196" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#f5f5f7">um modelo de IA que</text>
+      <text x="716" y="240" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#ffb38a">detecta fraude em cartão</text>
+      <text x="716" y="286" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8a8a98" letter-spacing="1.5">DETECÇÃO DE FRAUDES</text>
+    </g>
+
+    <line x1="64" y1="372" x2="1136" y2="372" stroke="#ffffff" stroke-opacity="0.08"/>
+    <text x="64" y="408" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8a8a98" letter-spacing="2">VOLTA REDONDA, RJ</text>
+    <text x="360" y="408" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8a8a98" letter-spacing="2">NEXT.JS  REACT  TYPESCRIPT  PYTHON  POSTGRESQL</text>
+    <circle cx="924" cy="403" r="5" fill="#3ddc84"/>
+    <circle cx="924" cy="403" r="5" fill="none" stroke="#3ddc84" stroke-width="2"><animate attributeName="r" values="5;14" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="940" y="408" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#e8e8ee" letter-spacing="2">ABERTO A VAGAS</text>
+  </g>
+</svg>
