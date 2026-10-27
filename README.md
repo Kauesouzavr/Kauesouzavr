@@ -35,11 +35,11 @@ Você manda "gastei 45 no ifood" e o bot registra, separa por categoria e respon
 
 <br/>
 
-<a href="https://prato-na-mesa.vercel.app"><img src="assets/Cardapio-3D.svg" alt="Prato na Mesa" width="100%"/></a>
+<a href="https://prato-na-mesa.vercel.app"><img src="assets/prato-na-mesa.svg" alt="Prato na Mesa" width="100%"/></a>
 
 **Prato na Mesa**<br/>
 Cardápio em realidade aumentada. O cliente lê o QR code da mesa e o prato aparece em 3D, em tamanho real, em cima da mesa. Funciona no navegador, sem instalar nada.<br/>
-<a href="https://prato-na-mesa.vercel.app">Abrir a demo</a> &nbsp;&nbsp; <a href="https://github.com/Kauesouzavr/Cardapio-3D">Ver código</a>
+<a href="https://prato-na-mesa.vercel.app">Abrir a demo</a> &nbsp;&nbsp; <a href="https://github.com/Kauesouzavr/prato-na-mesa">Ver código</a>
 
 <br/>
 
