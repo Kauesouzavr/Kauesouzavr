@@ -69,7 +69,7 @@ Meu primeiro projeto web completo. Uma plataforma de assinatura com pagamento pe
 
 <img src="assets/sec-formacao.svg" alt="03 Formação" width="100%"/>
 
-<img src="assets/formacao.svg" alt="Bacharel em Sistemas de Informação (UGB, 2025), Engenharia de Software (FIAP, 2026) e Introduction to Cybersecurity (Cisco, 2026)" width="100%"/>
+<img src="assets/formacao.svg" alt="Bacharel em Sistemas de Informação (UGB, 2026), Engenharia de Software (FIAP, 2026) e Introduction to Cybersecurity (Cisco, 2026)" width="100%"/>
 
 <br/>
 
